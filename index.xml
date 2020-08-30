@@ -1,9 +1,9 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>nuaNce&#39;s blog</title>
-   <link>https://co1ncidence.github.io/</link>
-   <description>Recent content on nuaNce&#39;s blog</description>
+   <title>Magnus Random&#39;s blog</title>
+   <link>https://magnusrandom.github.io/</link>
+   <description>Recent content on Magnus&#39;s blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
    <lastBuildDate>Mon, 17 Aug 2020 10:43:39 -0500</lastBuildDate>
@@ -13,10 +13,10 @@
    
      <item>
        <title>Some of My Favorite Software</title>
-       <link>https://co1ncidence.github.io/posts/some-cool-software/</link>
+       <link>https://magnusrandom.github.io/posts/some-cool-software/</link>
        <pubDate>Mon, 17 Aug 2020 10:43:39 -0500</pubDate>
        
-       <guid>https://co1ncidence.github.io/posts/some-cool-software/</guid>
+       <guid>https://magnusrandom.github.io/posts/some-cool-software/</guid>
        <description>&lt;p&gt;This is a list of some of the best software that I have come across in my journey using Linux. I highly recommend that you try them out and maybe even give the developers a well earned star on Github to show your support :)&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Links to the software&amp;rsquo;s Github page are in the headers&lt;/p&gt;
@@ -51,10 +51,10 @@
    
      <item>
        <title>Linux And The Command Line 101</title>
-       <link>https://co1ncidence.github.io/posts/bash-basics-for-nubs/</link>
+       <link>https://magnusrandom.github.io/posts/bash-basics-for-nubs/</link>
        <pubDate>Sat, 15 Aug 2020 14:15:28 -0500</pubDate>
        
-       <guid>https://co1ncidence.github.io/posts/bash-basics-for-nubs/</guid>
+       <guid>https://magnusrandom.github.io/posts/bash-basics-for-nubs/</guid>
        <description>&lt;p&gt;When I first started with Linux, and especially the command line, It was difficult to find a truly optimal and comprehensive guide to these things. While most tutorials were nice and gave me a good starting point, they usually provided inefficient information or didn&amp;rsquo;t showcase the most optimal commands/strategies. I am making this list as more of a dump for all of the things that I have learned about bash so far, which isn&amp;rsquo;t too much compared to some but I like to think that I know something. So without further ado, here is my bash basics list to boost you up in the Linux elitist ladder. And as a final note, unless specified, all of these commands are being run from the default (home) folder that your terminal puts you in.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Always remember: RTFM: &amp;ldquo;Read The Fucking Manual&amp;rdquo;&lt;/p&gt;
