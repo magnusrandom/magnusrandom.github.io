@@ -22,6 +22,6 @@
 [submodule "mysite/themes/diary"]
 	path = mysite/themes/diary
 	url = https://github.com/AmazingRise/hugo-theme-diary.git
-[submodule "mysite/themes/rocinante"]
-	path = mysite/themes/rocinante
-	url = https://github.com/mavidser/hugo-rocinante.git
+[submodule "mysite/themes/hugo-kiera"]
+	path = mysite/themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
